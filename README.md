@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Development-7C3AED?style=for-the-badge&logo=code" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-7C3AED?style=for-the-badge&logo=code" />
   <img src="https://img.shields.io/badge/Loves-Clean%20Code-22C55E?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20collab-0EA5E9?style=for-the-badge" />
 </p>
@@ -40,6 +40,7 @@ I’m a highly interested in Software Developement and enjoys building useful th
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse%20DS--5-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
 ### Skills & Expertise
