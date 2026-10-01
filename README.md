@@ -67,7 +67,7 @@ Here are a few things I’ve built or am actively working on:
 A web-based, block-based programming environment where pre-college students can program robots using visual blocks. The robot can be simulated (maze/field with obstacles) or connected to a real robot. Students learn programming through hands-on, immediate visual feedback.
 **Role:** Architecture & Design, Project Management
 
-  ### 🎯 [Digital-Travel-Journal](https://github.com/Raghadshh/Digital-Travel-Journal)
+  ### ✈️ [Digital-Travel-Journal](https://github.com/Raghadshh/Digital-Travel-Journal)
 A collaborative travel journaling web application with interactive features.
 - Implemented interactive itinerary timeline with date sorting and chronological story timeline
 - Built and integrated checklist and capsule UI features for improved trip planning
