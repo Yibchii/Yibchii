@@ -28,6 +28,7 @@ I’m a highly interested in Software Development and enjoys building useful thi
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEGv8%20Assembly-CC0000?style=for-the-badge&logo=assemblyscript&logoColor=white" />
 </p>
 
 ### Tools & Frameworks
