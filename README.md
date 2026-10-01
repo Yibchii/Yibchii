@@ -11,7 +11,7 @@
 </p>
 
 ## About Me
-I’m a highly interested in Software Developement and enjoys building useful things, open to learning new things, and turning ideas into real-world projects. I like clean architecture, simple design, and shipping products that people actually enjoy using.
+I’m a highly interested in Software Development and enjoys building useful things, open to learning new things, and turning ideas into real-world projects. I like clean architecture, simple design, and solving problems with coding.
 
 ---
 
