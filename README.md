@@ -43,10 +43,6 @@ I’m a highly interested in Software Developement and enjoys building useful th
   <img src="https://img.shields.io/badge/Eclipse%20DS--5-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </p>
 
-### Skills & Expertise
-- **Engineering & Core CS:** Data Structures & Algorithms, Object-Oriented Programming (OOP), Software Engineering Lifecycle, Agile/Scrum, Relational Databases, UML Modeling, Unit Testing & Debugging
-- **Professional:** Technical Writing, Workflow Optimization, Cross-Functional Team Leadership, Data Analysis
-
 ---
 
 ## GitHub Stats
@@ -55,24 +51,6 @@ I’m a highly interested in Software Developement and enjoys building useful th
   <img src="https://github-readme-stats.vercel.app/api?username=Yibchii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yibchii&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </div>
-
-
----
-
-## Featured Projects
-
-Here are a few things I’ve built or am actively working on:
-
-  ### ⚙️ [BlockBot](https://github.com/Yibchii/BlockBot)
-A web-based, block-based programming environment where pre-college students can program robots using visual blocks. The robot can be simulated (maze/field with obstacles) or connected to a real robot. Students learn programming through hands-on, immediate visual feedback.
-**Role:** Architecture & Design, Project Management
-
-  ### ✈️ [Digital-Travel-Journal](https://github.com/Raghadshh/Digital-Travel-Journal)
-A collaborative travel journaling web application with interactive features.
-- Implemented interactive itinerary timeline with date sorting and chronological story timeline
-- Built and integrated checklist and capsule UI features for improved trip planning
-- Contributed UI polish and repo maintenance
-**Role:** Frontend Features Developer
 
 ---
 
