@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20collab-0EA5E9?style=for-the-badge" />
 </p>
 
-## About Me
-I’m a highly interested in Software Development and enjoys building useful things, open to learning new things, and turning ideas into real-world projects. I like clean architecture, simple design, and solving problems with coding.
-
----
-
 ## Tech Stack
 
 ### Languages
